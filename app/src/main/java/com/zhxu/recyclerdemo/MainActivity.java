@@ -108,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
         layoutManager.setOrientation(LinearLayoutManager.HORIZONTAL);
         //为RecyclerView设置数据
         mRecyclerView.setAdapter(new ListAdapter(this,datas));
+
     }
 
 
