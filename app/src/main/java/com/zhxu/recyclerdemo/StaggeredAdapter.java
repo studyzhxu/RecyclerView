@@ -63,4 +63,5 @@ public class StaggeredAdapter extends RecyclerView.Adapter<StaggeredAdapter.Stag
             tvName.setText(bean.name);
         }
     }
+
 }

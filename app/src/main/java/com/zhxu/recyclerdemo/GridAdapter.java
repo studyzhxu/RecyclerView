@@ -41,6 +41,7 @@ public class GridAdapter extends RecyclerView.Adapter<GridAdapter.GridViewHold> 
     public int getItemCount() {
         if(mList != null){
             return mList.size() ;
+
         }
         return 0;
     }

@@ -11,5 +11,6 @@ public class DataBean {
     public DataBean(int iconData ,String nameData){
         icon = iconData ;
         name = nameData ;
+
     }
 }
